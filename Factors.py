@@ -5,4 +5,3 @@ def Factors(num):
             Factors_list.append(i)
     return Factors_list
 
-print(Factors(10))
